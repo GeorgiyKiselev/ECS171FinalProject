@@ -1,0 +1,1 @@
+Final Project for ECS171. I chose to do UNET for retinal vessel segmentation. Despite being assigned with a group, all the model development, data cleaning, training, evaluation and writing of the paper was done by me. 
